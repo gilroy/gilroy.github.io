@@ -2,7 +2,7 @@
 title: Michael Gilroy
 email: michael.gilroy24@gmail.com
 url: https://gilroy.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Let's build something cool together. Here, I showcase things you may want to see, such as my resume, social media outlets, and projects that are in the works. I'm an aspiring software engineer, but my expertise is in systems administration and network engineering."
 skills: "Software Engineer - Operations Specialist"
 meta_author: Gilroy Michael
 
@@ -34,7 +34,7 @@ footer:
   copyright: Michael Gilroy
   location: Location
   social: Around the Web
-# credits: Credits
+ credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,7 +55,7 @@ address:
   - line: Boulder, CO 80303
 
 # Credits content
-#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+    credits: 'Website designed by yours truly, with the help of the <a href="http://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll template</a> from @jeromelachaud on GitHub.'
 
 # Build settings
 markdown: kramdown
