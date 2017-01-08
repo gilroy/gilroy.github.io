@@ -1,7 +1,8 @@
 # Site settings
 title: Michael Gilroy
 email: michael.gilroy24@gmail.com
-url: https://gilroy.github.io
+url: https://michaeljgilroy.com
+enforce_ssl: michaeljgilroy.com
 description: "Let's build something cool together. Here, I showcase things you may want to see, such as my resume, social media outlets, and projects that are in the works. I'm an aspiring software engineer, but my expertise is in systems administration and network engineering."
 skills: "Software Engineer - Operations Specialist"
 meta_author: Gilroy Michael
