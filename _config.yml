@@ -43,10 +43,10 @@ social:
     url: http://twitter.com/michaeljgilroy
   - title: linkedin
     url: http://linkedin.com/in/michaeljgilroy
-  - title: reddit
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: quora.com 
+    url: http://quora.com/profile/Michael-Gilroy-2
+  - title: keybase.io
+    url: http://keybase.io/gilroy
   - title: github
     url: http://github.com/gilroy
 
@@ -56,7 +56,7 @@ address:
   - line: Boulder, CO 80303
 
 # Credits content
-credits: 'Website designed by yours truly, with the help of the <a href="http://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll template</a> from @jeromelachaud on GitHub.'
+credits: 'Website designed by yours truly, with the help of the <a href="http://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll theme</a> from @jeromelachaud on GitHub.'
 
 # Build settings
 markdown: kramdown
