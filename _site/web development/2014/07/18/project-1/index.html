@@ -1,14 +1,20 @@
 <!DOCTYPE html>
 <html>
     <head>
+<script>
+    var host = "michaeljgilroy.com";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+</script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Project 1</title>
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
+    <meta name="description" content="Let's build something cool together. Here, I showcase things you may want to see, such as my resume, social media outlets, and projects that are in the works. I'm an aspiring software engineer, but my expertise is in systems administration and network engineering.">
     <meta name="author" content="Gilroy Michael">
     <link rel="canonical" href="http://localhost:4000/web%20development/2014/07/18/project-1/">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+    <link rel="icon" href="../img/g.png">
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link rel="stylesheet" href="/style.css">
@@ -180,9 +186,9 @@
                 <div class="col-lg-4">
                     <p>Information Technology is kind of my wheelhouse. I've been tinkering with computers for as long as I can remember, and a lot of subsequent knowledge has come from these experiences. I am currently a Computer Science student at the University of Colorado Boulder. I'm always looking for new opportunities to apply my skills- I encourage you to reach out to me if I can be of use to your project or company. Let's build a brighter future together.</p>
                 </div>
-                <div class="col-lg-4">
-                    <p>Stay curious, friend.</p>
-                </div>
+            </div>
+            <div class="text-center">
+                 <p>Stay curious, friend.</p>
             </div>
         </div>
     </section>
@@ -197,10 +203,13 @@
 				<h2>Contact Me</h2>
 				<hr class="star-primary">
 			</div>
+			<div class="col-lg-8 text-center">
+                    <p>My <a href="../pgp.html">public PGP key</a>, if that's your walk of life.</p>
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-				<form  action="//formspree.io/you@email.com" method="POST" name="sentMessage" id="contactForm" novalidate>
+				<form  action="//formspree.io/michael.gilroy24@gmail.com" method="POST" name="sentMessage" id="contactForm" novalidate>
 					<div class="row control-group">
 						<div class="form-group col-xs-12 floating-label-form-group controls">
 							<label>Name</label>
@@ -269,11 +278,7 @@
                             </li>
 		                    
                             <li>
-                                <a href="http://stackoverflow.com/questions/tagged/jekyll" class="btn-social btn-outline"><i class="fa fa-fw fa-reddit"></i></a>
-                            </li>
-		                    
-                            <li>
-                                <a href="http://bitbucket.org/jekyll" class="btn-social btn-outline"><i class="fa fa-fw fa-bitbucket"></i></a>
+                                <a href="http://plus.google.com/u/0/+MichaelGilroy" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
                             </li>
 		                    
                             <li>
@@ -283,8 +288,8 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3></h3>
-                        <p></p>
+                        <h3>Credits</h3>
+                        <p>Website designed by yours truly, with the help of the <a href="http://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll theme</a> from @jeromelachaud on GitHub.</p>
                     </div>
                 </div>
             </div>
