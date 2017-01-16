@@ -54,7 +54,7 @@ address:
   - line: Boulder, CO 80303
 
 # Credits content
-credits: 'Website designed by yours truly, with the help of the <a href="http://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll theme</a> from @jeromelachaud on GitHub.'
+credits: 'Website designed by yours truly, with the help of the Freelancer Jekyll theme from @jeromelachaud on GitHub.'
 
 # Build settings
 markdown: kramdown
