@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2017-01-15
+img: resume.png
+alt: image-alt
+project-date: January 2017
+client: You!
+category: Career
+description: <a href="../resume.pdf">Check out my resume!!</a> It's up to date and ready for your viewing.
+
+---

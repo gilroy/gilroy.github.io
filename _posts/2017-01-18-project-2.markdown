@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2017-01-18
+img: stocks.png
+alt: image-alt
+project-date: March 2016
+category: Application Development
+description: For my Intro to Programming class, I decided to make an <a href="https://github.com/gilroy/stockanalysis">application for stock analysis</a> in Python. Simply enter a stock symbol (i.e. "TSLA") and let it do its thing! I'm looking to expand functionality by adding Robinhood trading functionality via their API, and add more to customize the output to the user's liking.
+
+---
