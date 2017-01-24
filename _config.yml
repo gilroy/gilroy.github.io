@@ -27,7 +27,7 @@ disqus_shortname: myshortname
 color:
   primary: 36b5e5 #80B3FF
   primary-rgb: "54,181,229" #"128,179,255"
-  secondary: 778899 #FD6E8A
+  secondary: 7E8891 #FD6E8A
   secondary-dark: 5a6977 #A2122F
 
 # Footer settings
@@ -50,7 +50,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 730 29th Street Unit 913
+  - line: 730 29th Street
   - line: Boulder, CO 80303
 
 # Credits content
